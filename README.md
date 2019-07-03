@@ -1,9 +1,9 @@
 # competion
-Get data and Description
-There are 3 different datasets for both train and test.
+Get data and Description  
 
-Note that the sample submission has 2 outcomes- good (1) or bad (0).
+There are 3 different datasets for both train and test.  
 
+Note that the sample submission has 2 outcomes- good (1) or bad (0).  
 ## a) Demographic data (traindemographics.csv)
 
 * customerid (Primary key used to merge to other data) 
